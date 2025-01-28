@@ -1,6 +1,6 @@
 # Boston-Property-Assessment
 
-Necessary CSV files and Database building code is found under 'Releases v1.0'
+Necessary CSV files, database building, and supporting code is found under 'Releases v1.0'
 
 Files found in repository are:
 
